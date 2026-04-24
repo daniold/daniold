@@ -13,4 +13,4 @@ I'm a developer, game designer, and digital media producer. I focus on building 
 - **Tools:** Git/GitHub, Roblox Studio, Professional Video Editing Suites
 
 ### 🎮 Off-Screen
-When I'm not writing code or editing videos, I'm usually gaming. My go-to titles right now are *No Man's Sky*, *Red Dead Redemption 2*, *Geometry Dash*, and *Minecraft*.
+When I'm not writing code or editing videos, I'm usually gaming. My go-to titles right now are *No Man's Sky*, *Red Dead Redemption 2*, and *Geometry Dash*, 
