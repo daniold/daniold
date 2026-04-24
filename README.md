@@ -4,7 +4,7 @@ I'm a developer, game designer, and digital media producer. I focus on building 
 
 ### 🚀 What I'm Up To
 - 🔭 **Working on:** Custom game mechanics in Roblox (Luau) and full-stack web projects (MERN, Next.js).
-- 🌱 **Learning:** Cybersecurity fundamentals and advanced web deployment.
+- 🌱 **Learning:** Cybersecurity fundamentals and Game Development.
 - 📹 **Creating:** Scripts, graphics, and video edits for digital media productions.
 
 ### 🛠️ Tech Stack
